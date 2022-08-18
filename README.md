@@ -66,7 +66,12 @@
 
 Надіслав pull-request на [Kottans/mock-repo](https://github.com/kottans/mock-repo/pull/943).
 
-## Linux CLI, and HTTP
+---
+
+### 01. Linux CLI, and HTTP
+
+---
+
 Linux команди не схожі на командний рядок Windows та DOS.
 
 Також різні структури дисків, папок та файлів.
@@ -98,26 +103,28 @@ HTTP: Протокол, який повинен розуміти кожний в
 
 ---
 
-## 3. Intro to HTML and CSS
+### **3. Intro to HTML and CSS**
 
 ---
-Прослухав 1 і 2 тижні курсу Intro to HTML & CSS та виконав ряд тестових завдання для закріплення прочитаних матеріалів
-Виконав 
-Learn HTML(Eng)
 
-Learn CSS(Eng)
+1. Прослухав 1 і 2 тижні курсу Intro to HTML & CSS та виконав ряд тестових завдання для закріплення прочитаних матеріалів
+
+2. Виконав завдання:
+
+- Learn HTML(Eng)
+
+- Learn CSS(Eng)
 
 <details>
   <summary>
-  Прослухав 
+  Screenshots
   </summary>
  
-![Quiz](https://github.com/wwwowka/kottans-frontend/blob/main/task_linux_cli/Quiz1.jpg)  
-![Quiz](https://github.com/wwwowka/kottans-frontend/blob/main/task_linux_cli/Quiz2.jpg)  
-![Quiz](https://github.com/wwwowka/kottans-frontend/blob/main/task_linux_cli/Quiz3.jpg)  
-![Quiz](https://github.com/wwwowka/kottans-frontend/blob/main/task_linux_cli/Quiz4.jpg)  
+![coursera - css](https://github.com/kvnvit/kottans-frontend/blob/main/task_html_css_intro/01_coursera_css.png)  
+![coursera - html](https://github.com/kvnvit/kottans-frontend/blob/main/task_html_css_intro/02_coursera_html.png)  
+![codecademy - html & css](https://github.com/kvnvit/kottans-frontend/blob/main/task_html_css_intro/03_codecademy.png)  
   
-</details> 
+</details>
 
 **Було новим:**
 
