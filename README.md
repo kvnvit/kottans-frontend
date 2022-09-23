@@ -151,3 +151,14 @@ Work in progress...
 ![grid](https://github.com/kvnvit/kottans-frontend/blob/main/task_responsive_web_design/02_grid_garden.png)  
   
 </details>
+
+---
+### **5. HTML & CSS Practice**
+
+Work in progress...
+
+---
+
+### **6. JavaScript Basics**
+
+Якщо використовувати українську мову інтерфейсу під час проходження завдань на https://www.freecodecamp.org/ - кидається в очі часта неточність перекладу з англійської.
